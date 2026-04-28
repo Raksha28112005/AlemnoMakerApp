@@ -232,6 +232,4 @@ Make sure `react-native-worklets-core` is installed and babel plugin is configur
 
 ---
 
-## 📄 License
 
-MIT — Free for educational and internship submission use.
